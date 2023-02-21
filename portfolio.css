@@ -1,87 +1,18 @@
-html {
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+:root{
+  /* colors */
+  --oxford_blue:        #001427;
+  --hookers_green:      #708D81;
+  --jasmine:            #F4D58D;
+  --engineering_orange: #BF0603;
+  --dark_red:           #8D0801;
 }
+.fakeimg {
+    height: 200px;
+    background: #aaa;
+  }
 body {
-  margin: 0;
-  font-size: 16px;
+  background: var(--jasmine);
 }
-h1,
-h2,
-h3,
-h4,
-p,
-blockquote,
-figure,
-ol,
-ul {
-  margin: 0;
-  padding: 0;
-}
-li {
-  display: block;
-}
-h1,
-h2,
-h3,
-h4 {
-  font-size: inherit;
-}
-a {
-  text-decoration: none;
-  color: inherit;
-  -webkit-transition: .3s;
-  -moz-transition: .3s;
-  transition: .3s;
-}
-img {
-  max-width: 100%;
-  height: auto;
-  border: 0;
-}
-body {
-  background-color: #EFEEE3;
-  text-align: center;
-}
-.line {
-stroke-width: 1px;
-stroke: #485359;
-}
-text {
-font-family: 'Oxygen', sans-serif;
-font-weight: 400;
-  fill: #485359;
-font-size: 1em;
-}
-.level-mark {
-  font-size: 0.8em;
-}
-.ring-level{
-  stroke: #485359;
-  stroke-width: 1px;
-  fill: none;
-}
-[class^="radar-chart-"], .data-point {
-  opacity: 0.7;
-  transition: all 0.2s;
-  -webkit-transition: all 0.2s;
-}
-[class^="radar-chart-"]:hover, [class^="radar-chart-"]:hover ~ .data-group .data-point{
-  opacity: 0.95;
-}
-.data-point {
-  fill: #485359;
-}
-.data-point:hover {
-  opacity: 1;
-  fill: black;
-}
-.data-text {
-  opacity: 0;
-  transition: all 0.2s;
-}
-.data-point:hover ~ .data-text{
-  opacity: 1;
+.navbar {
+  background: var(--engineering_orange);
 }
