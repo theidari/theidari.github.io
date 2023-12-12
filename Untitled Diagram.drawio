@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-12-12T01:40:29.063Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="Gs-QS238MCXYncbIcagp" version="22.1.7" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-12T03:38:07.692Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36" etag="T4VbI-TXZrbXu8-QtLzB" version="22.1.7" type="github">
   <diagram name="Page-1" id="Jv1g81ATU9zkHoRyQLGm">
-    <mxGraphModel dx="4018" dy="4512" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="5730" dy="8493" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -339,6 +339,22 @@
             <Array as="points">
               <mxPoint x="-570" y="820" />
               <mxPoint x="-570" y="1050" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHqQtUYq1vLODijT3XRW-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5xi1tdNm8i5OjT9YdTC8-32" target="vHqQtUYq1vLODijT3XRW-31">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-570" y="820" />
+              <mxPoint x="-570" y="1120" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="vHqQtUYq1vLODijT3XRW-34" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="5xi1tdNm8i5OjT9YdTC8-32" target="vHqQtUYq1vLODijT3XRW-33">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="-570" y="820" />
+              <mxPoint x="-570" y="770" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1103,6 +1119,9 @@
         <mxCell id="5xi1tdNm8i5OjT9YdTC8-269" value="- Advantage Pest Control" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="5xi1tdNm8i5OjT9YdTC8-228" vertex="1">
           <mxGeometry x="20" y="130" width="160" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="vHqQtUYq1vLODijT3XRW-30" value="GreenLeaf" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="5xi1tdNm8i5OjT9YdTC8-228">
+          <mxGeometry x="60" y="160" width="80" height="30" as="geometry" />
+        </mxCell>
         <mxCell id="5xi1tdNm8i5OjT9YdTC8-238" value="Pest-free warranty &#xa;Routine maintenance service &#xa;Unlimited free re-services  &#xa;Safe for humans and pets" style="text;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="1160" y="13770" width="190" height="80" as="geometry" />
         </mxCell>
@@ -1214,6 +1233,12 @@
         </mxCell>
         <mxCell id="vHqQtUYq1vLODijT3XRW-25" value="- ICONBIRD" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="vHqQtUYq1vLODijT3XRW-24">
           <mxGeometry x="45" y="10" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="vHqQtUYq1vLODijT3XRW-31" value="School&lt;br&gt;(GreenLeaf PC)" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="1090" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="vHqQtUYq1vLODijT3XRW-33" value="Facility Audits" style="rounded=1;whiteSpace=wrap;html=1;arcSize=12;" vertex="1" parent="1">
+          <mxGeometry x="-540" y="740" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
